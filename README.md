@@ -1,4 +1,4 @@
-# Flutploit - Yet another flutteron the web exploiter
+# Flutploit - Yet another flutter on the web exploiter
 
 
 ## Usage/Examples
